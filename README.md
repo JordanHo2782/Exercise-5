@@ -8,9 +8,6 @@ out other visualisation packages than we used in the lesson.
 
 - **Exercise 5 is due by Friday, 16 December 2022, end of day**
 
-- Don’t forget to check out the [hints for this week’s
-exercise](https://autogis-site.readthedocs.io/en/latest/lessons/lesson-5/exercise-5.html#hints)
-
 - Scores on this exercise are out of **20 points**.
 
 
